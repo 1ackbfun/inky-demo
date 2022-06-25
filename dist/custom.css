@@ -1,0 +1,9 @@
+.title {
+  font-weight: bold;
+  font-size: 150%;
+}
+
+.warn {
+  font-weight: bold;
+  color: goldenrod;
+}
